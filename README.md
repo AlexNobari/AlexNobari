@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a data analyst who recently completed a Data Analytics course at Springboard. With hands-on experience from capstone projects and a passion for continuous learning, I'm expanding my skills and portfolio in data analysis. I'm actively seeking analysis roles where I can contribute insights and grow professionally. Ask me about data storytelling or my latest projects!
+Customer-focused data professional with a Master’s degree in Textile Management and hands-on experience analyzing sales operations, customer behavior, and product performance to drive business decisions. Skilled in SQL, Tableau, Excel, and Salesforce, with a proven ability to support cross-functional teams through data storytelling, dashboard creation, and inventory optimization. Brings a unique blend of industry expertise and technical proficiency to uncover actionable insights that improve process efficiency and enhance customer experience.
 
 
 ## 🌐 Socials:
